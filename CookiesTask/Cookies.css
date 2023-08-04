@@ -1,0 +1,41 @@
+/* .container {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+} */
+label {
+  display: block;
+  margin: 5px;
+}
+input {
+  border: solid whitesmoke;
+  border-radius: 5px;
+}
+.gender {
+  display: flex;
+}
+.slection_color {
+  display: flex;
+}
+select {
+  border: solid whitesmoke;
+  border-radius: 5px;
+}
+button {
+  border: solid whitesmoke;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  padding: 5px 15px;
+  margin: 0px 40px;
+}
+
+.container_img {
+  display: flex;
+}
+p {
+  margin-top: 145px;
+}
+.DisplayNone {
+  display: none;
+}

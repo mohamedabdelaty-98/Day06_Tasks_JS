@@ -1,0 +1,19 @@
+button {
+  padding: 6px 6px;
+  border: none;
+  outline: none;
+  border: 2px solid #eee;
+  border-radius: 8px;
+  background-color: blue;
+  color: white;
+}
+#tabel_b {
+  border: 2px solid red;
+  border-radius: 10px;
+  background-color: antiquewhite;
+}
+th,
+td {
+  border: 1px solid red;
+  padding: 8px;
+}
